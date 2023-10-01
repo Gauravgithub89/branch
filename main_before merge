@@ -2,3 +2,8 @@ Before merge
 testing
 
 Tetsing on branch
+<<<<<<< HEAD
+=======
+
+issue branch
+>>>>>>> issue
